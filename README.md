@@ -1,0 +1,2 @@
+# goodbyeworld
+shitpost wtf
