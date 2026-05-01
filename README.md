@@ -73,13 +73,13 @@ Clone the repository and prepare the environment:
 ```bash id="ins91a"
 git clone https://github.com/realpnut/goodbyeworld.git
 cd goodbyeworld
-chmod +x goodbyeworld.sh
+chmod +x goodbye.sh
 ```
 
 Run the experiment:
 
 ```bash id="run77b"
-./goodbyeworld.sh
+./goodbye.sh
 ```
 
 ---
