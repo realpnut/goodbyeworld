@@ -8,6 +8,8 @@ echo "Hostname: $(hostname)"
 echo "OS: $(uname -s)"
 echo "Kernel: $(uname -r)"
 echo 
+echo "===  OS ==="
+neofetch
 echo "=== NET ==="
 LOCAL_IP=$(hostname -I 2>/dev/null | awk '{print $1}')
 echo "Local IP: $LOCAL_IP"
