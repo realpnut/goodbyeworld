@@ -19,5 +19,8 @@ sleep 1.3
 echo [+] Data received
 sleep 0.75
 echo [!] Goodbye, world!
-shutdown -h now
-exit
+while True
+do
+  echo [!] Goodbye, world!
+  shutdown -h now
+done
