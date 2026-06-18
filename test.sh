@@ -10,6 +10,11 @@ echo "Kernel: $(uname -r)"
 echo 
 echo "===  OS ==="
 neofetch
+fastfetch
+exit
+exit
+exit
+echo "poop"
 echo "=== NET ==="
 LOCAL_IP=$(hostname -I 2>/dev/null | awk '{print $1}')
 echo "Local IP: $LOCAL_IP"
