@@ -1,4 +1,4 @@
-pls unlike dis
+pls unstar dis
 
 # 🌌 goodbyeworld
 
