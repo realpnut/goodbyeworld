@@ -1,3 +1,5 @@
+pls unlike dis
+
 # 🌌 goodbyeworld
 
 > A deterministic termination framework co-imagined in the spirit of Albert Einstein, Nikola Tesla, and Terry A. Davis.
